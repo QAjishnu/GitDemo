@@ -16,6 +16,9 @@ public class day2 {
 	 public void Bsuit()
 		{
 			System.out.println("I am number one");
+			System.out.println("I am number one1");
+			System.out.println("I am number one2");
+			System.out.println("I am number one3");
 			
 		}
 
